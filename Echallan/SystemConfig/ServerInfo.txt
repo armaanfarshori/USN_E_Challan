@@ -1,0 +1,2 @@
+Server|User Name|Password|Database Name
+MASTER\SQLEXPRESS|smsadmin|admin2010|SNSMS
